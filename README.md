@@ -3,7 +3,7 @@
 
 * I'm currently working on a library manager app that will have a web and a mobile version (using ReactJS and React Native).
 * I am currently looking for a web developer role.
-* Over the last month or so I have been learning Python syntax.
+* Recently I have been getting into Python (previously I've mostly dealt in JavaScript)
 * I have a good deal of experience building UI's.
 * I'm getting more aquainted with back-end development - and I'm loving it! So far, just Node.js/Express/MongoDb. Looking to branch out soon!
 * Reach out to me if you have questions or issues I could be helpful with.
