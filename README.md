@@ -1,7 +1,8 @@
 ### Hi there 👋, I'm Kris!
 ## I am a web developer from the Seattle, WA area.
-## I am currently looking for a web developer role.
+
 * I'm currently working on a library manager app that will have a web and a mobile version (using ReactJS and React Native).
+* I am currently looking for a web developer role.
 * Over the last month or so I have been learning Python syntax.
 * I have a good deal of experience building UI's.
 * I'm getting more aquainted with back-end development - and I'm loving it! So far, just Node.js/Express/MongoDb. Looking to branch out soon!
