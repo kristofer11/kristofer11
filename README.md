@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Kris!
+# Hi there 👋, I'm Kris!
 ## I am a web developer from the Seattle, WA area.
 
 * I'm currently working on a library manager app that will have a web and a mobile version (using ReactJS and React Native).
