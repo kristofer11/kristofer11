@@ -7,9 +7,9 @@
 * I have a good deal of experience building UI's.
 * I'm getting more aquainted with back-end development - and I'm loving it! So far, just Node.js/Express/MongoDb. Looking to branch out soon!
 * Reach out to me if you have questions or issues I could be helpful with.
-* Fun fact about me: I have been a teacher, substitute teacher, school administrator, and corrections officer.
   
-## You can reach me at klhvattum@live.com
+### 🌐 [Visit My Portfolio](https://krishvattum.com)
+### ✉️ You can reach me at klhvattum@live.com
 
 <!--
 **kristofer11/kristofer11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
