@@ -6,7 +6,6 @@
 * Recently I have been getting into Python (previously I've mostly dealt in JavaScript)
 * I have a good deal of experience building UI's.
 * I'm getting more aquainted with back-end development - and I'm loving it! So far, just Node.js/Express/MongoDb. Looking to branch out soon!
-* Reach out to me if you have questions or issues I could be helpful with.
   
 ### 🌐 [Visit My Portfolio](https://krishvattum.com)
 ### ✉️ You can reach me at klhvattum@live.com
