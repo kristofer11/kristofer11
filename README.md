@@ -2,7 +2,9 @@
 ### I am a web developer in the Seattle, WA area.
 
 😄 I am looking for a web developer role.
+
 🔭 I'm currently working on a library manager app that will have a web and a mobile version (using ReactJS and React Native).
+
 🌱 Recently I have been learning Python and more React Native.
 ⚡ Extensive experience in building UIs with a track record of delivering impactful solutions.
 💻 I'm getting more aquainted with back-end development - and I'm loving it! So far, just Node.js/Express/MongoDb. Looking to branch out soon!
