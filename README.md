@@ -13,7 +13,7 @@
 
   
 ### 🌐 [Visit My Portfolio](https://krishvattum.com)
-### 📫 ![You can reach me at klhvattum@live.com] (mailto:klhvattum@live.com)
+### 📫 ![You can reach me at klhvattum@live.com](mailto:klhvattum@live.com)
 
 <!--
 **kristofer11/kristofer11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
