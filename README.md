@@ -9,7 +9,7 @@
 
 ⚡ Extensive experience in building UIs with a track record of delivering impactful solutions.
 
-💻 I'm getting more aquainted with back-end development - and I'm loving it! So far, just Node.js/Express/MongoDb. Looking to branch out soon!
+💻 I'm getting more aquainted with back-end development - and I'm loving it! Until now I have only used Node/Express to connect my apps to MongoDB databases, but that will be changing very soon. 
 
   
 ### 🌐 [Visit My Portfolio](https://krishvattum.com)
