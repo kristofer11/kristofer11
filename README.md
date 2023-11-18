@@ -5,7 +5,7 @@
 
 🔭 I'm currently working on a library manager app that will have a web and a mobile version (using ReactJS and React Native).
 
-🌱 I recently enrolled in Nucamp's backend, Python, SQL, DevOps bootcamp. I have already completed their full-stack program, but I'm ready to learn another language and dive deeper into backend technology.
+🌱 I'm working on completing Nucamp's backend, Python, SQL, DevOps bootcamp. I have already completed their full-stack program, but I'm ready to learn another language and dive deeper into backend technology.
 
 ⚡ Extensive experience in building UIs with a track record of delivering impactful solutions.
 
