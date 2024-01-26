@@ -1,15 +1,15 @@
 # Hi 👋, I'm Kris!
-### I am a web developer in the Seattle, WA area.
+### I am a web/mobile developer in the Seattle, WA area.
 
-😄 I am looking for a web developer role.
+😄 I am looking for a web/app developement role.
 
-🔭 I'm currently working on a library manager app that will have a web and a mobile version (using ReactJS and React Native).
+🔭 I'm currently working on a website overhaul for a radio station.
 
-🌱 I'm working on completing Nucamp's backend, Python, SQL, DevOps bootcamp. I have already completed their full-stack program, but I'm ready to learn another language and dive deeper into backend technology.
+🌱 I have nearly completed Nucamp's backend, Python, SQL, DevOps bootcamp. I have already completed their full-stack program, but I wanted to learn another language and dive deeper into backend technology.
 
-⚡ Extensive experience in building UIs with a track record of delivering impactful solutions.
+⚡ Extensive experience in building web and mobile UIs with a track record of delivering impactful solutions.
 
-💻 I'm getting more aquainted with back-end development - and I'm loving it! Until now I have only used Node/Express to connect my apps to MongoDB databases, but that will be changing very soon. 
+💻 While it doesn't include a front-end, one of my favorite projects, Wordie, is a Wordle clone built with Python that uses a web scraper to choose a word from hundreds of previously used words to make sure you never get the same word twice! [Check it out here!](https://github.com/kristofer11/Wordie)
 
   
 ### 🌐 [Visit My Portfolio](https://krishvattum.com)
