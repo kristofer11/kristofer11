@@ -1,15 +1,15 @@
 # Hi 👋, I'm Kris!
 ### I am a web/mobile developer in the Seattle, WA area.
 
-😄 I am looking for a web/app developement role.
+😄 I am passionate about writing user-focused code, especially if it supports education, healthy living, or faith-based non-profits.
 
-🔭 I'm currently in the midst of a 6 week internship working on an app using Flutter.
+🔭 I currently work at Portions Master where I am building the front-end of an innovative, AI-driven flutter application that is helping people meet their health goals.
 
-🌱 I have nearly completed Nucamp's backend, Python, SQL, DevOps bootcamp. I have already completed their full-stack program, but I wanted to learn another language and dive deeper into backend technology.
+🌱 While I currently work on a mobile app, I am also very interested in front-end web development, especially if I get to use ReactJS/NextJS.
 
-⚡ Extensive experience in building web and mobile UIs with a track record of delivering impactful solutions.
+⚡ I have extensive experience in building web and mobile UIs with a track record of prioritizing user experience.
 
-💻 One of my favorite projects, Wordie, is a Wordle clone built with Python that uses a web scraper to choose a word from hundreds of previously used words to make sure you never get the same word twice! [Check it out here!](https://github.com/kristofer11/Wordie)
+💻 One of my favorite personal projects, Wordie, is a Wordle clone built with Python that uses a web scraper to choose a word from hundreds of previously used words to make sure you never get the same word twice! [Check it out here!](https://github.com/kristofer11/Wordie)
 
   
 ### 🌐 [Visit My Portfolio](https://krishvattum.com)
