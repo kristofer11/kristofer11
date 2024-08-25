@@ -1,5 +1,5 @@
 # Hi 👋, I'm Kris!
-### I am a web/mobile developer in the Spokane, WA area.
+### I am a web/mobile developer in the Spokane-Coeur d'Alene area.
 
 😄 I am passionate about writing user-focused code, especially if it supports education, healthy living, or faith-based non-profits.
 
