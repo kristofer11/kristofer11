@@ -3,7 +3,7 @@
 
 😄 I am passionate about writing user-focused code, especially if it supports education, healthy living, or faith-based non-profits.
 
-🔭 I currently work at Portions Master where I am building the front-end of an innovative, AI-driven flutter application that is helping people meet their health goals.
+🔭 I currently work at [Portions Master](https://portionsmaster.com/?srsltid=AfmBOoqlsjJsYqVWJV-_Lz3D9kI7GYcyny-zQl_e0jwwRlk7sjeTMVL3) where I am building the front-end of an innovative, AI-driven flutter application that is helping people meet their health goals.
 
 🌱 While I currently work on a mobile app, I am also very interested in front-end web development, especially if I get to use ReactJS/NextJS.
 
