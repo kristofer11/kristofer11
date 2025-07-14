@@ -5,7 +5,7 @@
 
 🔭 I currently work at [Portions Master](https://portionsmaster.com/?srsltid=AfmBOoqlsjJsYqVWJV-_Lz3D9kI7GYcyny-zQl_e0jwwRlk7sjeTMVL3) where I am building the front-end of an innovative, AI-driven flutter application that is helping people meet their health goals.
 
-🌱 While I currently work on a mobile app, I am also very interested in front-end web development, especially if I get to use ReactJS/NextJS.
+🌱 While I currently work on a mobile app, I am also very interested in front-end web development, especially if I get to use ReactJS or NextJS.
 
 ⚡ I have extensive experience in building web and mobile UIs with a track record of prioritizing user experience.
 
